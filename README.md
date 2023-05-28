@@ -1,10 +1,6 @@
 ---
 title: "Segunda Tarea"
 author: "Allan Marín Campos"
-output:
-  distill::distill_article:
-    toc: true
-    toc_depth: 4
 ---
 
 ## Graficación sobre la calidad del café según el Instituto de calidad del café (CQI)
